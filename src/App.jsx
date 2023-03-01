@@ -8,7 +8,7 @@ import {
   Pricings,
   Banner,
   Newsletter,
-} from "./components";
+} from "./Components";
 import {
   hero,
   navlinks,
